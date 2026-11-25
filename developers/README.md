@@ -4,10 +4,10 @@ Discover developers, explore their work, and build professional connections.
 
 ## Community members
 
-| Name | GitHub | X (optional) | Skills and interests |
-| --- | --- | --- | --- |
-| Aryan Sondharva | [@aryansondharva](https://github.com/aryansondharva) | [@aryansondharva](https://x.com/aryansondharva) | Web development, DSA, hackathons |
-| Naitik Sondharva | [@aryansondharva](https://github.com/naitiksondharva) |  | 11th PCM |
+| Name | GitHub | X (optional) | Social Media |Skills and interests |
+| --- | --- | --- | --- | --- |
+| Aryan Sondharva | [@aryansondharva](https://github.com/aryansondharva) | [@aryansondharva](https://x.com/aryansondharva) | | Web development, DSA, hackathons |
+| Naitik Sondharva | [@aryansondharva](https://github.com/naitiksondharva) |  | | 11th PCM |
 
 ## Join the directory
 
