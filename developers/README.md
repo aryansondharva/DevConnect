@@ -8,7 +8,7 @@ Discover developers, explore their work, and build professional connections.
 | --- | --- | --- | --- | --- |
 | Aryan Sondharva | [@aryansondharva](https://github.com/aryansondharva) | [@aryansondharva](https://x.com/aryansondharva) | | Web development, DSA, hackathons |
 | Naitik Sondharva | [@naitiksondharva](https://github.com/naitiksondharva) |  | | 11th PCM |
-| Ankit Sharma | [@ankitshx](https://github.com/ankitshdev) |  | | Data Scientist, AI Developer, SaaS | 
+| Ankit Sharma | [@ankitshdev](https://github.com/ankitshdev) |[@ankitshx](https://x.com/ankitshx)  | | Data Scientist, AI Developer, SaaS | 
 
 ## Join the directory
 
