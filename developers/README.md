@@ -4,9 +4,9 @@ Discover developers, explore their work, and build professional connections.
 
 ## Community members
 
-| Name | GitHub | X (optional) | Skills and interests |
-| --- | --- | --- | --- |
-| Aryan Sondharva | [@aryansondharva](https://github.com/aryansondharva) | [@aryansondharva](https://x.com/aryansondharva) | Web development, DSA, hackathons |
+| Name | GitHub | X (optional) | Social Media |Skills and interests |
+| --- | --- | --- | --- | --- |
+| Aryan Sondharva | [@aryansondharva](https://github.com/aryansondharva) | [@aryansondharva](https://x.com/aryansondharva) | | Web development, DSA, hackathons |
 
 ## Join the directory
 
