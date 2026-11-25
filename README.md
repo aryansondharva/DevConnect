@@ -1,5 +1,3 @@
-<div align="center">
-
 # DevConnect
 
 **Connecting developers through open collaboration.**
@@ -8,7 +6,6 @@ A community-maintained directory for developers, students, and technology enthus
 
 [Explore members](developers/README.md) · [Join DevConnect](CONTRIBUTING.md) · [Community standards](CODE_OF_CONDUCT.md)
 
-</div>
 
 ## About
 
